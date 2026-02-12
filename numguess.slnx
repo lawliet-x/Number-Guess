@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="numguess/numguess.vcxproj" Id="018cfdb3-36e0-45dc-b460-79a486dca441" />
+</Solution>
